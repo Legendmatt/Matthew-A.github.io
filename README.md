@@ -9,7 +9,8 @@ I’m passionate about developing efficient, real-world software solutions and l
 
 Java, C#, SQL, Visual Studio, Git
 
-Leadership: Former Defensive Tackle & Team Captain at SHSU Football — strong teamwork, discipline, and communication skills.
+## Leadership: 
+Former Defensive Tackle & Team Captain at SHSU Football — strong teamwork, discipline, and communication skills.
 
 ## Experience: 
 CS & Math Tutor at SHSU, improving student grades through mentorship and practical problem-solving.
